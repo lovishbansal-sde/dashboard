@@ -10,7 +10,7 @@ Dashboard shows IPL statistics for the 10 teams for the duration of 10 years. Pr
 ![image](https://user-images.githubusercontent.com/56085600/208085114-769ea33c-a9d0-46ef-80c7-1a918bb548ac.png)
 
 # 4. Live Link
-https://akshat0703-ipl-statistics-dashboard-app-s0qvmd.streamlit.app/
+https://lovishbansal-sde-dashboard-dashboard-r4ylnw.streamlit.app/
 
 # 5. Screenshots of Interface
 ![image](https://user-images.githubusercontent.com/56085600/208085170-10b742ea-b22c-40ab-9e87-526b451bf9a7.png)

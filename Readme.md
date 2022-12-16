@@ -3,17 +3,18 @@
 
 
 # 2. Description
-Created a Dashboard using streamlit python library. Streamlit is an open-source app framework for Machine Learning and Data Science teams.
-Dashboard shows IPL statistics for the 10 teams for the duration of 10 years. Product aims to visualize and highlight various key points and statistics for teams as well as players.
+This dashboard can be used for comparison of video game sales using different filters present in the dashboard. The dataset used has sales data in different regions of various video games of different genre, publishers & Platform over a period of 1980-2016
+
+-Made By Lovish Bansal
 
 # 3. Output
-![image](https://user-images.githubusercontent.com/56085600/208085114-769ea33c-a9d0-46ef-80c7-1a918bb548ac.png)
-
+![image](https://user-images.githubusercontent.com/81516480/208094520-6729745e-8571-4aef-ad3f-1a9933726ffa.png)
 # 4. Live Link
 https://lovishbansal-sde-dashboard-dashboard-r4ylnw.streamlit.app/
 
 # 5. Screenshots of Interface
-![image](https://user-images.githubusercontent.com/56085600/208085170-10b742ea-b22c-40ab-9e87-526b451bf9a7.png)
-![image](https://user-images.githubusercontent.com/56085600/208085251-133dec8b-f18a-4c0c-a4f6-7b2e251874bd.png)
-![image](https://user-images.githubusercontent.com/56085600/208085419-4e365999-4a25-4c47-b32f-3ee36ed00462.png)
+![image](https://user-images.githubusercontent.com/81516480/208094698-f2e48f21-71c3-4b80-8104-922df39ebf28.png)
+![image](https://user-images.githubusercontent.com/81516480/208094799-a61accaa-f8cc-4319-bd47-c28e953e1ae9.png)
+![image](https://user-images.githubusercontent.com/81516480/208094902-e428a637-beb6-46fd-b560-fce58dcb3f39.png)
+![image](https://user-images.githubusercontent.com/81516480/208095047-96ceb10b-0de0-4328-8065-730229b9b554.png)
 

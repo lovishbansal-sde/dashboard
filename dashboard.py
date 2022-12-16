@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 
 # Reading csv file
-df = pd.read_csv("E:/Projects/Dashboard/vgsales.csv")
+df = pd.read_csv(r"vgsales.csv")
 df.info()
 
 # Publisher column had some NULL values so those rows were dropped
